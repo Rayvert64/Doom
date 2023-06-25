@@ -53,3 +53,6 @@
 
 ;; Include the latex previewer
 (package! latex-preview-pane)
+
+;; install nix-mode
+(package! nix-mode)
